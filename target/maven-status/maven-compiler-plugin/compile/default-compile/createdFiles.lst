@@ -1,0 +1,7 @@
+com\lumaproject\pages\WomenPage.class
+com\lumaproject\utilities\Utilities.class
+com\lumaproject\pages\GearPage.class
+com\lumaproject\pages\MenPage.class
+com\lumaproject\browserfactory\ManageBrowser.class
+com\lumaproject\propertyreader\PropertyReader.class
+com\lumaproject\pages\HomePage.class
